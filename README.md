@@ -70,3 +70,9 @@ avoid noise).
 **Data acquisition ends here, for conditioning, analysis and processing, start matlab with the .m file "pds_tcc". I left all lines commented out and all functions ready. Just choose which part of the code you want to use**
 
 ## **Contact**
+If you have any questions, or have any suggestions to improve the project, send me a message. In small steps we help each other.
+
+email: victorkxd@gmail.com
+
+## **License**
+The license for this work is linked to the terms of the graduation dissertation of the Federal Technological University of Paraná -  Cornélio Procópio
