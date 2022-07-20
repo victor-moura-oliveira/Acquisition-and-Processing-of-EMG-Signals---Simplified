@@ -65,4 +65,8 @@ avoid noise).
 <div align="center">
 <img src="https://user-images.githubusercontent.com/109448482/180051140-24407eee-bc56-451b-bcb8-0b1486ffd7ad.PNG"  width="500px" />
 </div>
-                                                                                                                             
+      
+      
+**Data acquisition ends here, for conditioning, analysis and processing, start matlab with the .m file "pds_tcc". I left all lines commented out and all functions ready. Just choose which part of the code you want to use**
+
+## **Contact**
