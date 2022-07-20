@@ -27,10 +27,10 @@ The need to develop technology in order to help individuals who have certain dif
 I tried to use the simplest tools and methods to develop this work, but if you have any questions, please send me a message and I'll help you.
 
 ## **Installers**
-Excel (Microsoft Office)
+[Excel](https://www.microsoft.com/pt-br/microsoft-365) (Microsoft Office)
 
-Plx_Daq (PARALLAX)
+[Plx_Daq](https://www.parallax.com/package/plx-daq/) (PARALLAX)
 
-Arduino IDE
+[Arduino IDE](https://www.arduino.cc/en/software)
 
-Matlab (student license)
+[Matlab](https://www.mathworks.com/products/matlab.html) (student license)
