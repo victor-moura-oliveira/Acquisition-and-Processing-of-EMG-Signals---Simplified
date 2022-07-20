@@ -44,7 +44,13 @@ I tried to use the simplest tools and methods to develop this work, but if you h
 
 ## **Getting Started**
 1. Install the software (Matlab, ArduinoIDE, Excel and Plx-Daq).
-2. Connect your acquisition circuit to ArduinoUNO (or whatever version you want to use).
+2. Connect your acquisition circuit to ArduinoUNO (or whatever version you want to use). In the code I made available in the project, I used Arduino's A0 port, but feel free to change it if you want.
+
+The acquisition circuit is defined in three parts, input ("P2" electrodes), output (SIG and GND) and 9V source ("VS+, GND, VS-" Symmetric - obs: I used batteries to avoid noise).
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/109448482/180044363-66831266-9b57-4400-a64f-1f755c124622.jpg" width="800px" />
+</div>
 
 
 
