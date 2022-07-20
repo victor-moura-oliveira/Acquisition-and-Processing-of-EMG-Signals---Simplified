@@ -49,7 +49,7 @@ I tried to use the simplest tools and methods to develop this work, but if you h
 The acquisition circuit is defined in three parts, input ("P2" electrodes), output (SIG and GND) and 9V source ("VS+, GND, VS-" Symmetric - obs: I used batteries to avoid noise).
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/109448482/180044363-66831266-9b57-4400-a64f-1f755c124622.jpg" width="800px" />
+<img src="https://user-images.githubusercontent.com/109448482/180044363-66831266-9b57-4400-a64f-1f755c124622.jpg" width="400px" />
 </div>
 
 
