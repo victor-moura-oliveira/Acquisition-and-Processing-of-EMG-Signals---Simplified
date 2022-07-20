@@ -28,6 +28,9 @@ I tried to use the simplest tools and methods to develop this work, but if you h
 
 ## **Installers**
 Excel (Microsoft Office)
+
 Plx_Daq (PARALLAX)
+
 Arduino IDE
+
 Matlab (student license)
