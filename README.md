@@ -19,3 +19,6 @@ Data were stored in a spreadsheet with the company's PARALLAX software (plx_daq)
 The analysis and processing was done using the "matlab" software from the company mathworks. A very good software that makes it possible to import EMG signals allocated in archives ".xlsx" into the code in a simple way.
 
 *OBS: If you want to use the system to control a robotic prosthesis or something like that, you just need the acquisition circuit and a microcontroller (or Arduino).*
+
+## **Why**
+The need to develop technology in order to help individuals who have certain difficulties in our society is extremely important. We spend several years of our lives absorbing knowledge both in the context in which we live and in the academic context, and the least that should be done in order to repay this long time of learning is to develop projects based on all academic experience, aiming to make the world that we live in a better place!
