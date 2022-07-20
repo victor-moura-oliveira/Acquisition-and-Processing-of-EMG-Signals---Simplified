@@ -39,6 +39,7 @@ I tried to use the simplest tools and methods to develop this work, but if you h
 - Choose which muscle you want to analyze.
 - Study the signals in detail (amplitude, frequency)
 - Use this project to make a control system.
+
 *be creative!*
 
 
