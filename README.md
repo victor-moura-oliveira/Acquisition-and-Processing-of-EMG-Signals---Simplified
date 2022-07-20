@@ -44,13 +44,9 @@ I tried to use the simplest tools and methods to develop this work, but if you h
 
 ## **Getting Started**
 1. Install the software (Matlab, ArduinoIDE, Excel and Plx-Daq).
-2. Connect your acquisition circuit to ArduinoUNO (or whatever version you want to use). In the code I made available in the project, I used Arduino's A0 port, but feel free to change it if you want.
-
-The acquisition circuit is defined in three parts, input ("P2" electrodes), output (SIG and GND) and 9V source ("VS+, GND, VS-" Symmetric - obs: I used batteries to 
+2. Connect your acquisition circuit to ArduinoUNO (or whatever version you want to use). In the code I made available in the project, I used Arduino's A0 port, but feel free to change it if you want. The acquisition circuit is defined in three parts, input ("P2" electrodes), output (SIG and GND) and 9V source ("VS+, GND, VS-" Symmetric - obs: I used batteries to 
 avoid noise).
-
 3. Position the electrodes on the muscle you want to analyze (two acquisition electrodes and a reference electrode).
-
 4. Write the code to the Arduino.
 
 <div align="center">
