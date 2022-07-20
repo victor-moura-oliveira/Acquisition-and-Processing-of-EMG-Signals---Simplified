@@ -52,9 +52,11 @@ The acquisition circuit is defined in three parts, input ("P2" electrodes), outp
 <img src="https://user-images.githubusercontent.com/109448482/180044363-66831266-9b57-4400-a64f-1f755c124622.jpg" width="400px" />
 </div>
 
+3. Position the electrodes on the muscle you want to analyze (two acquisition electrodes and a reference electrode).
 
-
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/109448482/180051753-4b591b2b-d700-44e7-b2a5-a60276e74b58.png" width=500px" />
+</div>
 
 
 
