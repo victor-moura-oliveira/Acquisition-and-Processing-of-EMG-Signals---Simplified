@@ -22,3 +22,12 @@ The analysis and processing was done using the "matlab" software from the compan
 
 ## **Why**
 The need to develop technology in order to help individuals who have certain difficulties in our society is extremely important. We spend several years of our lives absorbing knowledge both in the context in which we live and in the academic context, and the least that should be done in order to repay this long time of learning is to develop projects based on all academic experience, aiming to make the world that we live in a better place!
+
+## **Some Observation about this Project**
+I tried to use the simplest tools and methods to develop this work, but if you have any questions, please send me a message and I'll help you.
+
+## **Installers**
+Excel (Microsoft Office)
+Plx_Daq (PARALLAX)
+Arduino IDE
+Matlab (student license)
