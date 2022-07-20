@@ -48,7 +48,7 @@ I tried to use the simplest tools and methods to develop this work, but if you h
 avoid noise).
 3. Position the electrodes on the muscle you want to analyze (two acquisition electrodes and a reference electrode).
 4. Write the code to the Arduino anr RUN.
-5. Start PLXDAQ and set the baudrate (192000), when you want to change it, don't forget to change it in the sketch (Arduino Code) too. Click connect and the system will start recording EMG signal data in the spreedsheet. Note: You can organize the worksheet the way you prefer.
+5. Start PLXDAQ and set the baudrate (192000) and choise the port, when you want to change it, don't forget to change it in the sketch (Arduino Code) too. Click connect and the system will start recording EMG signal data in the spreedsheet. *Note: You can organize the worksheet the way you prefer.*
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/109448482/180044363-66831266-9b57-4400-a64f-1f755c124622.jpg"  width="500px" />
