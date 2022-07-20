@@ -42,7 +42,9 @@ I tried to use the simplest tools and methods to develop this work, but if you h
 
 *be creative!*
 
-
+## **Getting Started**
+1. Install the software (Matlab, ArduinoIDE, Excel and Plx-Daq).
+2. Connect your acquisition circuit to ArduinoUNO (or whatever version you want to use).
 
 
 
